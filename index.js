@@ -20,3 +20,5 @@ const greeting = () => {
 };
 
 greeting();
+
+console.log("hi")
