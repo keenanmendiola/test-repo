@@ -7,18 +7,9 @@ console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
 console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
 console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
 
+function getArea(){
+  console.log("This is an area")
+}
 
-console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
-console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
 
-
-console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
-console.log("asdlkasjdlksadjklasdasdjalksdjalskdjksaldj")
-
-const greeting = () => {
-  console.log("Hello, World");
-};
-
-greeting();
-
-console.log("hi")
+getArea();
